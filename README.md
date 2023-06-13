@@ -11,3 +11,5 @@ Studing
 🛠Tools🛠
 <br>
 <br>
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
